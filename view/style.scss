@@ -1,0 +1,27 @@
+
+* {
+
+	box-sizing: border-box;
+	padding-left: 20;
+	margin: 0;
+}
+
+nav.menu {
+
+	position: relative;
+	padding-top: 30px;
+}
+
+section {
+
+	position: fixed;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	height: 100%;
+	width: 900px;
+}
+
+hr {
+	border-width: 4px;
+	border-color: blue;
+}
